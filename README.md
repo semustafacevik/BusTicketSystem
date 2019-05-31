@@ -1,2 +1,2 @@
 # BusTicketSystem_on_JAVA
-This project is designed with a JavaFX.
+Bu uygulama Java dersi için MS SQLServer ve JavaFX teknolojileri kulanılarak geliştirilmiştir.
