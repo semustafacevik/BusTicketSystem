@@ -1,2 +1,2 @@
-# BusTicketSystem_on_JAVA
+# BusTicketSystem
 Bu uygulama Java dersi için MS SQLServer ve JavaFX teknolojileri kulanılarak geliştirilmiştir.
